@@ -35,13 +35,3 @@ app.UseHttpsRedirection();
 app.MapEndpoints();
 
 app.Run();
-
-
-//in memory db - update to postgresql or leave as is
-//minimal api crud +
-//vertical slice +
-//generics +
-//add used technologies to readme - add to repo
-//add containers - use aspire
-//add frontend
-//auth
