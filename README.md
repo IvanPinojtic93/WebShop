@@ -7,9 +7,13 @@
 - in-memory db
 - ef
 - linq
+- auth, roles, bearer token
+- seeder
 
 *TODO*
 - add containers - use aspire
-- change from in-memory db to postgres db
+- change from in-memory db to postgres db - migrations
 - add frontend
-- add auth
+- add business layer and logic
+- move login and user logic to separate project
+- add http files
